@@ -1,0 +1,13 @@
+Podaci koji su korisceni
+:
+- baza podataka Zavoda za informatiku i statistiku Beograda
+- baza podataka Republickog zavoda za statistiku
+- Sl.list Grada Beograda - pojedini listovi za informacijama o ceni zakupa
+- Svetska banka (poverty map) - http://dataviz.worldbank.org/t/SASEP/views/SRB_Povmap_Indicators/SerbiaPovertyMapandAdminDB?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no
+- podaci popisa 2011.godine
+- knjigovodstvena procena profesinalne agencije na osnovu zakonskih odredbi
+
+ToDo:
+- dopuniti podatke za druge opstine
+- iscitavanje meta vrednosti (rejting SME&preduzetnici) u sortiranju
+- front page mapa > srediti (ubaciti geo layer)
